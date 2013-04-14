@@ -1,0 +1,17 @@
+@import url(reset.css);
+#logo {
+    padding-top: 10%;
+    display: block;
+    margin: 0 auto;
+}
+
+#content {
+    margin: 0 auto;
+    width: 802px;
+    background-color: #FFFFFF;
+
+}
+.obj{
+    float:left;
+    border: 0;
+}

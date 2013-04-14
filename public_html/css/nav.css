@@ -1,0 +1,28 @@
+.bNormal{
+    float:left;
+    list-style: none;
+    padding-left: 2px;
+}
+
+.bNM {
+    background-image: url(../images/bNM1.png);
+}
+.bOM{
+    background-image: url(../images/bOM1.png);
+}
+.bCM{
+    background-image: url(../images/bCM1.png);
+}
+.bNM, .bOM, .bCM{
+    width: 105px;
+    height: 40px;
+}
+
+.subM {
+    width: 210px;
+    padding: 1em;
+    box-sizing: border-box;
+    background-color: #444444;
+    visibility: hidden;
+
+}

@@ -1,0 +1,16 @@
+a:link{
+    color:rgb(200,200,200);
+    text-decoration: none;
+}
+a:visited{
+    color:rgb(200,200,200);
+    text-decoration: none;
+}
+a:hover{
+    color:rgb(255,255,255);
+    text-decoration: underline;
+}
+a:active{
+    color:rgb(255,255,255);
+    text-decoration: none;
+}
